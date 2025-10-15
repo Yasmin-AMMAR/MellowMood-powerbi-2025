@@ -52,7 +52,7 @@ Cette page présente également la **répartition des ventes par segment de marc
 
 ### 2 - Analyse par produit
 #### Vue 1 – Résumé et taux de rentabilité
-![Analyse par produit 1](2-%20Analyse%20par%20produit%20(1).png)  
+![Analyse par produit 1](2-%20Analyse%20par%20produit%20%281%29.png)
 Cette première page met en évidence :  
 - Les **Top 3 produits** en termes de revenus, profits et unités vendues.  
 - Les **unités vendues par produit** et leur **taux de rentabilité (%)**.  
@@ -60,7 +60,7 @@ Cette première page met en évidence :
 *Objectif : comprendre quelles références contribuent le plus à la performance globale.*
 
 #### Vue 2 – Positionnement des produits
-![Analyse par produit 2](2-%20Analyse%20par%20produit%20(2).png)  
+![Analyse par produit 2](2-%20Analyse%20par%20produit%20%282%29.png)
 Cette seconde vue illustre le **positionnement des produits** selon :  
 - Le **volume des ventes** (axe vertical).  
 - La **marge unitaire (€)** (axe horizontal).  
