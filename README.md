@@ -42,7 +42,7 @@ L’objectif est d’aider la direction à **identifier les zones, produits et s
 ## Structure du tableau de bord
 
 ### 1 - Performance globale
-![Performance globale](1- Performance globale.png)
+![Performance globale](1-%20Performance%20globale.png)  
 Vue d’ensemble des **indicateurs clés** : revenus, dépenses, profits et marges.  
 Cette page présente également la **répartition des ventes par segment de marché** et la performance par **trimestre et produit**.  
 
@@ -52,7 +52,7 @@ Cette page présente également la **répartition des ventes par segment de marc
 
 ### 2 - Analyse par produit
 #### Vue 1 – Résumé et taux de rentabilité
-![Analyse par produit 1](captures/2-Analyse_par_produit%20(1).png)  
+![Analyse par produit 1](2-%20Analyse%20par%20produit%20(1).png)  
 Cette première page met en évidence :  
 - Les **Top 3 produits** en termes de revenus, profits et unités vendues.  
 - Les **unités vendues par produit** et leur **taux de rentabilité (%)**.  
@@ -60,7 +60,7 @@ Cette première page met en évidence :
 *Objectif : comprendre quelles références contribuent le plus à la performance globale.*
 
 #### Vue 2 – Positionnement des produits
-![Analyse par produit 2](captures/2-Analyse_par_produit%20(2).png)  
+![Analyse par produit 2](2-%20Analyse%20par%20produit%20(2).png)  
 Cette seconde vue illustre le **positionnement des produits** selon :  
 - Le **volume des ventes** (axe vertical).  
 - La **marge unitaire (€)** (axe horizontal).  
@@ -71,8 +71,8 @@ Cette seconde vue illustre le **positionnement des produits** selon :
 ---
 
 ### 3 - Analyse géographique et performance par magasin
-![Région / magasin 1](captures/3-Région_%20magasin%20(1).png)  
-![Région / magasin 2](captures/3-Région_%20magasin%20(2).png)  
+![Région / magasin 1](3-%20Région%20_%20magasin%20(1).png)  
+![Région / magasin 2](3-%20Région%20_%20magasin%20(2).png)  
 Cartographie interactive du profit par État et par ville.  
 Inclut :  
 - Les **Top 5 villes les plus rentables**  
@@ -85,7 +85,7 @@ Inclut :
 ---
 
 ### 4 - Écarts entre prévisions et résultats réels
-![Réel VS prévus](captures/4-Réel_VS_prévus.png)  
+![Réel VS prévus](4-%20Réel%20VS%20prévus.png)  
 Comparaison entre les **profits prévus** et **profits réels** pour mesurer la fiabilité des prévisions.  
 Indicateurs clés :  
 - Écart (%) entre prévu et réel  
@@ -134,4 +134,3 @@ Réalisé par *Yasmin AMMAR*
 ## Contact
 **Email :** [yesmin.ammar001@email.com](mailto:yesmin.ammar001@email.com)  
 **LinkedIn :** [https://www.linkedin.com/in/yasmin-ammar/](https://www.linkedin.com/in/yasmin-ammar/)
-
