@@ -42,7 +42,7 @@ L’objectif est d’aider la direction à **identifier les zones, produits et s
 ## Structure du tableau de bord
 
 ### 1 - Performance globale
-![Performance globale](Captures/1-Performance_globale.png)
+![Performance globale](1- Performance globale.png)
 Vue d’ensemble des **indicateurs clés** : revenus, dépenses, profits et marges.  
 Cette page présente également la **répartition des ventes par segment de marché** et la performance par **trimestre et produit**.  
 
